@@ -42,7 +42,7 @@ function logMessage(message: string): void {
 // Example calls
 const userName = "Alex";
 const person: Person = { name: "Mary", age: 28, city: "Chicago" };
-const student: Student = { name: "Ethan", grade: 5 };
+const student: Student = { name: "John", grade: 5 };
 
 greetUser(userName);
 printPersonInfo(person);
